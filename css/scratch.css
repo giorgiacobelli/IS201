@@ -1,0 +1,59 @@
+/* do what we did last class here  */
+/* General body styling */
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: #e0f7fa; /* light aqua blue */
+    color: rgba(0, 0, 0, 0.744); /* deep teal */
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  .header-div {
+    background-color: #ffcc80; /* light orange like sunset */
+    color: #4e342e; /* soft brown */
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 5px solid #ffb74d;
+  }
+  
+ 
+  .menu-div {
+    background-color: #fffde7; /* sandy beige */
+    border: 2px dashed #fdd835; /* sun yellow border */
+    padding: 1.5rem;
+    margin: 2rem auto;
+    border-radius: 12px;
+    max-width: 700px;
+  }
+ 
+  .video-div {
+    background-color: #b2ebf2; /* light turquoise */
+    padding: 2rem;
+    margin: 2rem auto;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 105, 92, 0.2); /* soft sea shadow */
+    max-width: 800px;
+    text-align: center;
+  }
+ 
+  h1, h2 {
+    color: rgba(0, 0, 0, 0.744); /* coral orange */
+  }
+  
+  a {
+    color: #0289d1ba;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #01589bb6;
+  }
+  
+  img {
+    width: 25%; 
+    height: auto;
+  }
+
+ 
